@@ -1,0 +1,8 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    max-width: fit-content;
+    max-height: fit-content;
+    margin: auto;
+}
